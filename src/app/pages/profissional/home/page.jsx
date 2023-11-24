@@ -37,7 +37,7 @@ export default function HomeMedico(){
                     </div>
                     <div >
                         <Link className="options-item" href="/pages/profissional/meu-perfil">
-                            <Image src={Perfil}  alt="" />
+                            <Image src={Perfil}  alt="Icone em vetor de um usuario para representar o perfil" />
                             <p>MEU PERFIL</p>
                         </Link>
                     </div>
