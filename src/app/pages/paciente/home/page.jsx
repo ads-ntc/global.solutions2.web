@@ -29,7 +29,7 @@ export default function HomePaciente(){
                             <p>16 / 11 / 2023</p>
                         </div>
                         <div className="data-hora-item">
-                            <Image src={Relogio} alt=""/>
+                            <Image src={Relogio} alt="Icone relogio"/>
                             <p>18 : 25</p>
                         </div>
                     </div>

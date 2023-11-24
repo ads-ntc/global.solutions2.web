@@ -54,7 +54,7 @@ export default function PacientePerfil() {
       <>
         <section className="section-paciente-progresso">
             <div className="container-foto-perfil">
-                <Image className="" alt=""/>
+                <Image className="" alt="Foto importada para o perfil do usuario"/>
 
             </div>
             <div className="container-perfil">
