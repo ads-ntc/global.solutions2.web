@@ -17,7 +17,7 @@ export default function Cabecalho() {
         </Link>
 
         <Link className='cabecalho-item' href="/pages/paciente/progresso">
-        <Image src={Progresso} alt=""/>
+        <Image src={Progresso} alt="Icone em vetor para representar o progresso do paciente"/>
         </Link>
 
         <Link className='cabecalho-item' href="/pages/paciente/perfil">
