@@ -1,0 +1,32 @@
+@import "../Styles/style.scss";
+
+.modal{
+    width: 30vw;
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #E3E4FF;
+
+    border: solid 1px  #0A0F8C; 
+
+    margin: 10% 10% 10% 10%;
+    
+}
+
+.modal-horario{
+   text-align: center;
+   font-weight: bold;
+   font-size: 4rem;
+    
+}
+
+.btn-modal{
+    width: 199px;
+    height: 42px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: #FFF;
+    border: solid 1px #878181 ;
+}

@@ -1,0 +1,91 @@
+@import "../Styles/style.scss";
+
+footer{
+    display: none;
+}
+
+.container-usuarios{
+    height: 10vh;
+
+    margin: 0 5% 5% 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    background: #0A0F8C;
+
+    color: #ffffff;
+    font-family: $fonte-secundaria;
+    font-size: 2rem;
+    
+}
+
+.lista-pacientes{
+    width: 60vw;
+    height: 80vh;
+    background-color: #E3E4FF ;
+    border-radius: 15px;
+
+    margin: auto;
+    
+}
+
+.titulo-paciente-tabela{
+    background-color: #0A0F8C;
+    height: 2rem;
+    text-align: center;
+    color: #ffffff;
+    padding: 2% 0 0 0;
+    
+}
+
+.resultado-paciente-tabela{
+    text-align: center;
+    border: #0A0F8C solid 1px;
+}
+
+@media (min-width:320px) and (max-width:800px){
+
+    .container-usuarios{
+        height: 10vh;
+    
+        margin: 0 5% 5% 5%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border-radius: 15px;
+        background: #0A0F8C;
+    
+        color: #ffffff;
+        font-family: $fonte-secundaria;
+        font-size: 2rem;
+        
+    }
+    
+    .lista-pacientes{
+        width: 100vw;
+        height: 80vh;
+        background-color: #E3E4FF ;
+        border-radius: 15px;
+    
+        margin: auto;
+        
+    }
+    
+    .titulo-paciente-tabela{
+        background-color: #0A0F8C;
+        height: 1rem;
+        text-align: center;
+        color: #ffffff;
+        padding: 2% 0 0 0;
+        
+    }
+    
+    .resultado-paciente-tabela{
+        text-align: center;
+        border: #0A0F8C solid 1px;
+
+    }
+}

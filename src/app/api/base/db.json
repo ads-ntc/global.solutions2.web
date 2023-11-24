@@ -1,1 +1,36 @@
-{"usuarios":[{"id":1,"nome":"Juan","cpf":"54888329800","senha":"123456"},{"id":2,"nome":"aaa","cpf":"123","senha":"123"}]}
+
+{"usuarios":[
+    
+{"id":1,"nome":"Nicoly Oliveira","cpf":"54888329800","senha":"123456", "dataaniversario":"03/12/2004", "planodesaude": "Amil"},
+{"id":2,"nome":"Juliana Vianaa","cpf":"381.065.400-06","senha":"123", "dataaniversario":"20/04/2012", "planodesaude": "Amil"},
+{"id":3,"nome":"Gabriel Souza","cpf":"512.387.901-28","senha":"abc123", "dataaniversario":"15/09/1995", "planodesaude": "Amil"},
+{"id":4,"nome":"Larissa Oliveira","cpf":"789.456.123-09","senha":"senha456", "dataaniversario":"02/11/1988", "planodesaude": "Unimed"},
+{"id":5,"nome":"Rafaela Lima","cpf":"654.321.987-54","senha":"qwerty", "dataaniversario":"18/07/2000", "planodesaude": "SulAmérica"},
+{"id":6,"nome":"Felipe Santos","cpf":"987.654.321-00","senha":"fs123", "dataaniversario":"22/03/1992", "planodesaude": "Bradesco Saúde"},
+{"id":7,"nome":"Camila Pereira","cpf":"234.567.890-12","senha":"cp2023", "dataaniversario":"07/05/1985", "planodesaude": "Unimed"},
+{"id":8,"nome":"Lucas Lima","cpf":"876.543.210-98","senha":"lucas@2023", "dataaniversario":"14/12/1999", "planodesaude": "Amil"},
+{"id":9,"nome":"Mariana Rocha","cpf":"135.246.789-03","senha":"mr2023", "dataaniversario":"30/06/1983", "planodesaude": "Porto Seguro"},
+{"id":10,"nome":"Thiago Costa","cpf":"543.210.678-45","senha":"thiago123", "dataaniversario":"25/01/1991", "planodesaude": "Bradesco Saúde"},
+{"id":11,"nome":"Isabela Oliveira","cpf":"987.654.321-23","senha":"bel@2023", "dataaniversario":"11/08/1982", "planodesaude": "Amil"},
+{"id":12,"nome":"Gustavo Silva","cpf":"123.456.789-09","senha":"gsilva567", "dataaniversario":"03/04/1997", "planodesaude": "SulAmérica"},
+{"id":13,"nome":"Amanda Costa","cpf":"234.567.890-34","senha":"amanda!23", "dataaniversario":"19/09/1987", "planodesaude": "Unimed"},
+{"id":14,"nome":"Lucas Oliveira","cpf":"345.678.901-67","senha":"lucas567", "dataaniversario":"28/12/2001", "planodesaude": "Bradesco Saúde"},
+{"id":15,"nome":"Carla Lima","cpf":"456.789.012-78","senha":"carla@2023", "dataaniversario":"14/02/1994", "planodesaude": "Porto Seguro"},
+{"id":16,"nome":"Rafaela Costa","cpf":"567.890.123-89","senha":"raf@456", "dataaniversario":"01/11/1986", "planodesaude": "Amil"},
+{"id":17,"nome":"João Souza","cpf":"678.901.234-01","senha":"joaosouza789", "dataaniversario":"10/07/2002", "planodesaude": "SulAmérica"},
+{"id":18,"nome":"Isabela Oliveira","cpf":"789.012.345-12","senha":"bela2023", "dataaniversario":"22/03/1990", "planodesaude": "Unimed"},
+{"id":19,"nome":"Lucas Santos","cpf":"890.123.456-23","senha":"lucas!23", "dataaniversario":"05/09/1981", "planodesaude": "Porto Seguro"},
+{"id":20,"nome":"Amanda Rocha","cpf":"901.234.567-34","senha":"amr2023", "dataaniversario":"17/12/1996", "planodesaude": "Bradesco Saúde"},
+{"id":21,"nome":"Bruno Lima","cpf":"123.456.789-45","senha":"bruno567", "dataaniversario":"02/05/1984", "planodesaude": "Amil"},
+{"id":22,"nome":"Mariana Oliveira","cpf":"234.567.890-56","senha":"mariana23", "dataaniversario":"09/10/1998", "planodesaude": "SulAmérica"},
+{"id":23,"nome":"Rafaela Costa","cpf":"345.678.901-67","senha":"raf@2023", "dataaniversario":"25/04/1980", "planodesaude": "Unimed"},
+{"id":24,"nome":"Carlos Souza","cpf":"456.789.012-78","senha":"csouza456", "dataaniversario":"12/08/1993", "planodesaude": "Porto Seguro"},
+{"id":25,"nome":"Gabriel Santos","cpf":"567.890.123-89","senha":"gabs2023", "dataaniversario":"06/02/1989", "planodesaude": "Bradesco Saúde"},
+{"id":26,"nome":"Juliana Pereira","cpf":"678.901.234-90","senha":"jup2023", "dataaniversario":"23/07/2004", "planodesaude": "Amil"},
+{"id":27,"nome":"Daniel Oliveira","cpf":"789.012.345-01","senha":"daniel!23", "dataaniversario":"18/11/1992", "planodesaude": "SulAmérica"},
+{"id":28,"nome":"Thais Lima","cpf":"890.123.456-12","senha":"thais567", "dataaniversario":"03/06/1986", "planodesaude": "Unimed"},
+{"id":29,"nome":"Lucas Costa","cpf":"901.234.567-23","senha":"lucas@2023", "dataaniversario":"20/12/1995", "planodesaude": "Porto Seguro"},
+{"id":30,"nome":"Fernanda Rocha","cpf":"123.456.789-34","senha":"fer2023", "dataaniversario":"07/04/198"}
+
+
+]}
