@@ -9,8 +9,8 @@ Repositorio com a solução da global solutions web - FIAP
 >Todos integrantes fazem parte do 1TDSS
 
 ## Acesso
-> 54888329800
-> 123456
+> User: 54888329800
+> Senha: 123456
 
 
 
