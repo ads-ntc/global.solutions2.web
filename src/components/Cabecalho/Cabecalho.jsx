@@ -13,7 +13,7 @@ export default function Cabecalho() {
     <header className='cabecalho'>
       <nav className='cabecalho-mobile'>
         <Link className='cabecalho-item' href="/pages/paciente/home">
-        <Image src={Check} alt=""/>
+        <Image src={Check} alt="Icone em vetor para o header em formato de check"/>
         </Link>
 
         <Link className='cabecalho-item' href="/pages/paciente/progresso">
