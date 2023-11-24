@@ -21,7 +21,7 @@ export default function Cabecalho() {
         </Link>
 
         <Link className='cabecalho-item' href="/pages/paciente/perfil">
-        <Image src={Perfil} alt=""/>
+        <Image src={Perfil} alt="Icone em vetor para representar o perfil do paciente"/>
         </Link>
         
       </nav>
