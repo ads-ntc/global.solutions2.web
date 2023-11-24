@@ -1,3 +1,19 @@
+# GlOBAL SOLUTIONS 2
+Repositorio com a solução da global solutions web - FIAP
+## Integrantes 
++ Ana Julia Almeida Silva Neves RM 98974
++ Cauã Couto Basques RM 97755
++ Kaique Agostinho de Oliveira RM 550815
++ Leonardo Buonanno Del Matto RM 98315
++ Nicoly Oliveira Santos RM 552410
+>Todos integrantes fazem parte do 1TDSS
+
+## Acesso
+> 54888329800
+> 123456
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
