@@ -11,8 +11,9 @@ Repositorio com a solução da global solutions web - FIAP
 ## Acesso
 > User: 54888329800
 > Senha: 123456
+> 
 ## Deploy 
-Desenvolvido por [NTC HEALTH](https://global-solutions2-web-fiap.vercel.app/)
+[NTC HEALTH](https://global-solutions2-web-fiap.vercel.app/)
 
 
 
