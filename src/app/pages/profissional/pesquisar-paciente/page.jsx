@@ -86,7 +86,7 @@ export default function PesquisarPaciente(){
                 value={inputId}
                 onChange={handleInputChange}
                 placeholder="Digite o ID do Paciente" />
-                <Image url={Lupa} alt=""/>
+                <Image url={Lupa} alt="Vetor do icone em formato de Lupa para pesquisa"/>
 
                 <div>
                  <button className="search-button" onClick={handleFetchData}>BUSCAR USUÁRIO</button>
