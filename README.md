@@ -15,7 +15,7 @@ Repositorio com a solução da global solutions web - FIAP
 ## Deploy 
 [NTC HEALTH](https://global-solutions2-web-fiap.vercel.app/)
 
-
+## Informações do NEXT
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
