@@ -25,7 +25,7 @@ export default function HomeMedico(){
                 <div className="container-options">
                     <div>
                         <Link className="options-item" href="/pages/profissional/pesquisar-paciente">
-                            <Image src={Lupa} alt="" />
+                            <Image src={Lupa} alt="Icone Lupa para pesquisa" />
                             <p>PESQUISAR</p>
                         </Link>
                     </div>
