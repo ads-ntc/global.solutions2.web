@@ -134,7 +134,7 @@ export default function PesquisarPaciente(){
             <div className="container-button">
                 <button onClick={openModal} className="btn-adicionar">
                     NOVA MEDICAÇÃO
-                    <Image src={Adicionar} alt=""/>
+                    <Image src={Adicionar} alt="Vetor mais para adicionar usuario pelo botão"/>
                     </button>
             </div>
             <div className="modal-container">
