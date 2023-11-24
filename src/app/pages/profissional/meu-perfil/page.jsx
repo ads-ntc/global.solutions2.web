@@ -51,7 +51,7 @@ export default function ProfissionalPerfil() {
     return(
         <section>
             <div className="container-foto-perfil">
-                <Image className="" alt=""/>
+                <Image className="" alt="Foto de perfil importada pelo usuário"/>
 
             </div>
             <div className="container-perfil">
